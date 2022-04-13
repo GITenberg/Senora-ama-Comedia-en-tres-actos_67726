@@ -1,0 +1,36 @@
+_repo: Senora-ama-Comedia-en-tres-actos_67726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benavente, Jacinto
+    aliases:
+    - Benevente, Jacinto
+    - Benavente y Martínez, Jacinto
+    - Martínez, Jacinto Benavente y
+    - Benavente y Martinez, Jacinto
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33140'
+    url: http://www.gutenberg.org/2009/agents/33140
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Jacinto_Benavente
+    - http://en.wikipedia.org/wiki/Jacinto_Benavente
+description: ''
+gutenberg_issued: '2022-03-28'
+identifiers:
+  gutenberg: '67726'
+language: es
+pgterms:marc904: https://archive.org/details/seoraamacomediae00bena_0
+pgterms:marc905: 20220312105502benavente
+pgterms:marc906: '1911'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: Spain :R. Velasco, impresor,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Señora ama: Comedia en tres actos'
+url: http://www.gutenberg.org/ebooks/67726
